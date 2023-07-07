@@ -1,0 +1,109 @@
+.body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: grey;
+    background-color: black;
+}
+.first{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px 30px;
+    margin: 0px 30px;
+}
+.first h3{
+    font-size: 25px;
+    color: whitesmoke;
+    font-weight: normal;
+}
+.first h3 span{
+    color:  rgb(62, 13, 71);
+    font-size: 26;
+    font-weight: bold;
+
+}
+.span{
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-right: 40px;
+    color: grey;
+}
+.first i{
+    background-color: grey;
+    border-radius: 50%;
+    color: black;
+    padding: 8px 10px;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.first i:hover{
+    color: white;
+    background-color:rgb(62, 13, 71); ;
+}
+.second{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 80px;
+}
+.second img{
+    height: 409px;
+    width: 440px;
+    border-radius: 50%;
+    border: 1px solid grey;
+}
+.second h2{
+    font-size: 40px;
+    color: white;
+}
+.second p{
+    font-size: 18px;
+}
+.second button{
+    padding: 10px 25px;
+    background-color: gray;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.second button:hover{
+    color: white;
+    background-color: rgb(62, 13, 71);
+}
+.third{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 40px 40px;
+}
+.s{
+    color: grey;
+    font-size: 14px;
+    margin-right: 60px;
+}
+.c{
+    color: grey;
+    font-size: 8px;
+    margin-right: 30px;
+}
+.d{
+    color: white;
+    font-size:8px;
+    margin-right: 30px;
+}
+.e{
+    color: white;
+    font-size: 14px;
+    margin-right: 200px;
+    margin-left: 30px;
+}
+.insta{
+    font-size: 35px;
+    color: grey;
+}
+.insta:hover{
+    color:  rgb(62, 13, 71);;
+}
+
